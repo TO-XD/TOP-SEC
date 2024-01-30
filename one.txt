@@ -1,1 +1,1 @@
-.
+[FBAN/Orca-Android;FBAV/415.0.0.34.107;FBBV/442016421;FBDM/{density=4.0,width=1080,height=1024};FBLC/en_US;FBRV/349829322;FBCR/Jazz;FBMF/Sony;FBBD/Sony;FBPN/com.facebook.orca;FBDV/XQ-AS52;FBSV/13.1.7;nullFBCA/armeabi-v7a:armeabi;]
