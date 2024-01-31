@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/401.0.0.24.77;FBBV/421209723;FBDM/{density=1.5,width=1200,height=800};FBLC/en_US;FBCR/Maroc Telecom;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.katana;FBDV/vivo Y19t;FBSV/10.4.9;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/288.0.0.46.123;FBBV/245199169;FBDM/{density=4.0,width=2048,height=1024};FBLC/en_US;FBRV/317200568;FBCR/Bitė;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.katana;FBDV/vivo X5Pro;FBSV/12.2.3;nullFBCA/arm64-v8a:;]
