@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/45.0.0.23.146;FBBV/14636716;FBDM/{density=1.0,width=1080,height=800};FBLC/en_US;FBCR/Ethio Telecom;FBMF/OPPO;FBBD/OPPO;FBPN/com.facebook.katana;FBDV/CPH1613;FBSV/9.5.7;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/401.0.0.24.77;FBBV/421209723;FBDM/{density=2.5,width=800,height=800};FBLC/en_US;FBCR/Magyar Telekom;FBMF/HUAWEI;FBBD/HUAWEI;FBPN/com.facebook.katana;FBDV/JKM-LX1;FBSV/7.7.4;FBCA/arm64-v8a:;]
