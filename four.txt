@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/288.0.0.46.123;FBBV/245199169;FBDM/{density=4.0,width=2048,height=1024};FBLC/en_US;FBRV/317200568;FBCR/Bitė;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.katana;FBDV/vivo X5Pro;FBSV/12.2.3;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/199.0.0.56.98;FBBV/132462584;FBDM/{density=3.5,width=1440,height=800};FBLC/en_US;FBRV/337981049;FB_FW/2;FBCR/Econet Leo;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.katana;FBDV/vivo Y33;FBSV/11.6.4;FBOP/1;FBCA/arm64-v8a:;]
