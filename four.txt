@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/292.0.0.61.123;FBBV/251145638;FBDM/{density=2.5,width=800,height=812};FBLC/en_US;FBRV/393201481;FB_FW/2;FBCR/Magenta;FBMF/realme;FBBD/realme;FBPN/com.facebook.katana;FBDV/RMX1901;FBSV/13.4.8;FBOP/1;FBCA/arm64-v8a:;]
+[FBAN/Orca-Android;FBAV/39.0.0.0.88;FBBV/12733034;FBDM/{density=2.0,width=1125,height=800};FBLC/en_US;FBCR/Megacom;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.orca;FBDV/moto g power (2022);FBSV/12.2.7;FBCA/arm64-v8a:;]
