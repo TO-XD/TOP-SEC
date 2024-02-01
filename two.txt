@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/47.0.0.25.125;FBBV/15237799;FBDM/{density=1.5,width=750,height=1280};FBLC/en_US;FBCR/China Mobile;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/LE2115;FBSV/11.8.5;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/142.0.0.27.92;FBBV/72205336;FBDM/{density=1.5,width=768,height=1024};FBLC/en_US;FBRV/340635874;FB_FW/2;FBCR/BH Telecom;FBMF/Amazon;FBBD/Amazon;FBPN/com.facebook.katana;FBDV/Fire HD 8 (2017);FBSV/11.6.6;FBOP/1;FBCA/arm64-v8a:;]
