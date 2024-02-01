@@ -1,1 +1,1 @@
-[FBAN/Orca-Android;FBAV/183.0.0.57.75;FBBV/119505294;FBDM/{density=4.0,width=720,height=1280};FBLC/en_US;FBRV/359225878;FB_FW/2;FBCR/Cellcard;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.orca;FBDV/EB2103;FBSV/8.2.9;FBOP/1;FBCA/arm64-v8a:;]
+[FBAN/Orca-Android;FBAV/45.0.0.23.146;FBBV/14636716;FBDM/{density=4.0,width=1440,height=1440};FBLC/en_US;FBRV/300369893;FBCR/Somtel;FBMF/Allview;FBBD/allview;FBPN/com.facebook.orca;FBDV/X4 Soul Infinity L;FBSV/7.9.8;nullFBCA/armeabi-v7a:armeabi;]
