@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/254.0.0.37.125;FBBV/194387467;FBDM/{density=4.0,width=768,height=812};FBLC/en_US;FBRV/317569366;FB_FW/2;FBCR/Monaco Telecom;FBMF/Allview;FBBD/allview;FBPN/com.facebook.katana;FBDV/X3 Soul mini;FBSV/10.6.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/340.0.0.27.113;FBBV/308015282;FBDM/{density=3.0,width=1080,height=800};FBLC/en_US;FBRV/327512307;FB_FW/2;FBCR/BlueSky;FBMF/TECNO;FBBD/TECNO;FBPN/com.facebook.katana;FBDV/TECNO PR651h;FBSV/11.1.7;FBOP/1;FBCA/arm64-v8a:;]
