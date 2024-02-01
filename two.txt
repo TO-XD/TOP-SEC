@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/142.0.0.27.92;FBBV/72205336;FBDM/{density=1.5,width=768,height=1024};FBLC/en_US;FBRV/340635874;FB_FW/2;FBCR/BH Telecom;FBMF/Amazon;FBBD/Amazon;FBPN/com.facebook.katana;FBDV/Fire HD 8 (2017);FBSV/11.6.6;FBOP/1;FBCA/arm64-v8a:;]
+[FBAN/Orca-Android;FBAV/42.0.0.14.114;FBBV/13879710;FBDM/{density=3.5,width=1080,height=1440};FBLC/en_US;FBRV/269932918;FBCR/Free Mobile;FBMF/OPPO;FBBD/OPPO;FBPN/com.facebook.orca;FBDV/CPH1803;FBSV/7.4.8;nullFBCA/armeabi-v7a:armeabi;]
