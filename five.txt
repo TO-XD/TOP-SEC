@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/358.0.0.34.117;FBBV/311617005;FBDM/{density=1.5,width=1440,height=1280};FBLC/en_US;FBRV/258910693;FB_FW/2;FBCR/Unitel;FBMF/Amazon;FBBD/Amazon;FBPN/com.facebook.katana;FBDV/KFRAPWI;FBSV/10.1.4;FBOP/1;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/241.0.0.39.120;FBBV/175428060;FBDM/{density=4.0,width=800,height=1280};FBLC/en_US;FBCR/Megacom;FBMF/Apple;FBBD/Apple;FBPN/com.facebook.katana;FBDV/A2649;FBSV/8.5.7;FBCA/arm64-v8a:;]
