@@ -1,1 +1,1 @@
-[FBAN/Orca-Android;FBAV/371.0.0.24.109;FBBV/314214459;FBDM/{density=2.5,width=768,height=1440};FBLC/en_US;FBCR/Lumitel;FBMF/Xiaomi;FBBD/xiaomi;FBPN/com.facebook.orca;FBDV/Mi Note 10 Lite;FBSV/7.3.3;FBCA/armeabi-v7a:armeabi;]
+[FBAN/Orca-Android;FBAV/142.0.0.27.92;FBBV/72205336;FBDM/{density=1.0,width=1536,height=800};FBLC/en_US;FBRV/403743973;FBCR/Banglalink;FBMF/Apple;FBBD/Apple;FBPN/com.facebook.orca;FBDV/A2589;FBSV/11.9.7;nullFBCA/arm64-v8a:;]
