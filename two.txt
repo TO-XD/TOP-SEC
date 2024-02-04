@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/345.0.0.34.118;FBBV/309015953;FBDM/{density=2.0,width=1080,height=800};FBLC/en_US;FBRV/352821474;FBCR/Telecel;FBMF/realme;FBBD/realme;FBPN/com.facebook.katana;FBDV/RMX2063;FBSV/9.3.4;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/237.0.0.44.120;FBBV/170693384;FBDM/{density=4.0,width=720,height=1440};FBLC/en_US;FBRV/406827915;FB_FW/2;FBCR/Our Telekom;FBMF/Amazon;FBBD/Amazon;FBPN/com.facebook.katana;FBDV/T76N2P;FBSV/12.7.6;FBOP/1;FBCA/armeabi-v7a:armeabi;]
