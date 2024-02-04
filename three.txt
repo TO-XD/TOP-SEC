@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/312.0.0.45.117;FBBV/282418109;FBDM/{density=2.5,width=1125,height=1366};FBLC/en_US;FBRV/310514471;FBCR/m:tel;FBMF/Acer;FBBD/acer;FBPN/com.facebook.katana;FBDV/Liquid E600;FBSV/9.7.4;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/110.0.0.15.69;FBBV/49078465;FBDM/{density=4.0,width=1125,height=1024};FBLC/en_US;FBCR/Somtel;FBMF/Amazon;FBBD/Amazon;FBPN/com.facebook.katana;FBDV/KFMAWI;FBSV/8.8.7;FBCA/arm64-v8a:;]
