@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/138.0.0.19.93;FBBV/69169467;FBDM/{density=4.0,width=800,height=1280};FBLC/en_US;FBCR/TashiCell;FBMF/Amazon;FBBD/Amazon;FBPN/com.facebook.katana;FBDV/KFASWI;FBSV/9.9.8;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/408.1.0.36.103;FBBV/440614097;FBDM/{density=2.5,width=720,height=736};FBLC/en_US;FBCR/Timor Telecom;FBMF/Xiaomi;FBBD/xiaomi;FBPN/com.facebook.katana;FBDV/Mi Note 3;FBSV/10.8.1;FBCA/arm64-v8a:;]
