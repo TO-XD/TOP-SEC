@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/369.0.0.18.103;FBBV/313811870;FBDM/{density=2.0,width=1080,height=1024};FBLC/en_US;FBRV/240420320;FBCR/Cyta;FBMF/realme;FBBD/realme;FBPN/com.facebook.katana;FBDV/RMX2156;FBSV/12.4.9;nullFBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/386.0.0.35.108;FBBV/317217654;FBDM/{density=2.0,width=1440,height=1280};FBLC/en_US;FBRV/313602320;FB_FW/2;FBCR/Digicel;FBMF/Apple;FBBD/Apple;FBPN/com.facebook.katana;FBDV/iPad13,16;FBSV/12.2.9;FBOP/1;FBCA/arm64-v8a:;]
