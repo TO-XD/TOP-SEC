@@ -1,1 +1,1 @@
-[FBAN/Orca-Android;FBAV/35.0.0.0.337;FBBV/10862146;FBDM/{density=1.0,width=1080,height=1440};FBLC/en_US;FBCR/Vodafone IN;FBMF/realme;FBBD/realme;FBPN/com.facebook.orca;FBDV/RMX2027;FBSV/12.5.7;FBCA/arm64-v8a:;]
+[FBAN/Orca-Android;FBAV/107.0.0.19.337;FBBV/47807796;FBDM/{density=2.5,width=750,height=1366};FBLC/en_US;FBRV/319944046;FBCR/Telekom Albania;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.orca;FBDV/SM-A730F;FBSV/12.9.9;nullFBCA/armeabi-v7a:armeabi;]
