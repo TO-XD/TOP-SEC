@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/395.0.0.27.214;FBBV/319025405;FBDM/{density=3.5,width=1600,height=1280};FBLC/en_US;FBRV/341962983;FB_FW/2;FBCR/Reliance Communications;FBMF/OPPO;FBBD/OPPO;FBPN/com.facebook.katana;FBDV/CPH1609;FBSV/8.5.6;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/62.0.0.42.77;FBBV/21376152;FBDM/{density=1.5,width=720,height=812};FBLC/en_US;FBRV/285952310;FBCR/Telcel;FBMF/Acer;FBBD/acer;FBPN/com.facebook.katana;FBDV/Iconia Tab 7 A1-713HD;FBSV/9.9.5;nullFBCA/armeabi-v7a:armeabi;]
