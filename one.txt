@@ -1,1 +1,1 @@
-[FBAN/Orca-Android;FBAV/419.0.0.29.71;FBBV/442811621;FBDM/{density=1.5,width=1600,height=812};FBLC/en_US;FBCR/GTT;FBMF/Xiaomi;FBBD/xiaomi;FBPN/com.facebook.orca;FBDV/Redmi 7;FBSV/13.2.4;FBCA/arm64-v8a:;]
+[FBAN/Orca-Android;FBAV/35.0.0.0.337;FBBV/10862146;FBDM/{density=1.0,width=1080,height=1440};FBLC/en_US;FBCR/Vodafone IN;FBMF/realme;FBBD/realme;FBPN/com.facebook.orca;FBDV/RMX2027;FBSV/12.5.7;FBCA/arm64-v8a:;]
