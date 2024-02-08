@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/34.0.0.0.242;FBBV/10009614;FBDM/{density=1.5,width=768,height=736};FBLC/en_US;FBCR/SoftBank;FBMF/Infinix;FBBD/Infinix;FBPN/com.facebook.katana;FBDV/Infinix X609;FBSV/9.7.1;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/374.0.0.20.109;FBBV/314813437;FBDM/{density=2.0,width=1536,height=736};FBLC/en_US;FBRV/324640319;FB_FW/2;FBCR/Telmob;FBMF/Lge;FBBD/lge;FBPN/com.facebook.katana;FBDV/LG-M160;FBSV/9.4.4;FBOP/1;FBCA/armeabi-v7a:armeabi;]
