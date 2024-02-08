@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/60.0.0.13.76;FBBV/20315716;FBDM/{density=3.5,width=1536,height=1024};FBLC/en_US;FBCR/Hormuud;FBMF/Infinix;FBBD/Infinix;FBPN/com.facebook.katana;FBDV/Infinix X610;FBSV/9.9.9;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/292.0.0.60.123;FBBV/250937654;FBDM/{density=2.5,width=1536,height=736};FBLC/en_US;FBCR/SK Telecom;FBMF/Xiaomi;FBBD/xiaomi;FBPN/com.facebook.katana;FBDV/Redmi K30;FBSV/13.3.8;FBCA/armeabi-v7a:armeabi;]
